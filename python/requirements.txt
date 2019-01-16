@@ -1,0 +1,15 @@
+Cython
+boto3
+requests
+h5py
+numpy>=1.12
+onnx
+protobuf
+pyyaml
+requests
+tqdm
+pillow
+virtualenv
+
+autopep8
+
